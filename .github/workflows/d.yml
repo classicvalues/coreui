@@ -20,7 +20,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - uses: dlang-community/setup-dlang@d85cc7113828ebb5ed60c76b2b331a3ee6ed12c7
+    - uses: dlang-community/setup-dlang@43589c229861e1720e187a344c67dad1d9eefe4c
 
     - name: 'Build & Test'
       run: |
