@@ -1,6 +1,6 @@
 /**
  * --------------------------------------------------------------------------
- * CoreUI (v4.2.2): popover.js
+ * CoreUI (v4.2.4): popover.js
  * Licensed under MIT (https://coreui.io/license)
  *
  * This component is a modified version of the Bootstrap's popover.js
@@ -8,8 +8,8 @@
  * --------------------------------------------------------------------------
  */
 
-import { defineJQueryPlugin } from './util/index'
-import Tooltip from './tooltip'
+import { defineJQueryPlugin } from './util/index.js'
+import Tooltip from './tooltip.js'
 
 /**
  * Constants
