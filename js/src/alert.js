@@ -1,6 +1,6 @@
 /**
  * --------------------------------------------------------------------------
- * CoreUI (v4.2.2): alert.js
+ * CoreUI (v4.2.4): alert.js
  * Licensed under MIT (https://coreui.io/license)
  *
  * This component is a modified version of the Bootstrap's alert.js
@@ -8,10 +8,10 @@
  * --------------------------------------------------------------------------
  */
 
-import { defineJQueryPlugin } from './util/index'
-import EventHandler from './dom/event-handler'
-import BaseComponent from './base-component'
-import { enableDismissTrigger } from './util/component-functions'
+import { defineJQueryPlugin } from './util/index.js'
+import EventHandler from './dom/event-handler.js'
+import BaseComponent from './base-component.js'
+import { enableDismissTrigger } from './util/component-functions.js'
 
 /**
  * Constants
