@@ -125,7 +125,7 @@
     "postcss-cli": "^10.1.0",
     "postcss": "^8.4.17",
     "rollup": "^2.79.1",
-    "rollup-plugin-istanbul": "^3.0.0",
+    "rollup-plugin-istanbul": "^4.0.0",
     "rtlcss": "^4.0.0",
     "sass": "^1.55.0",
     "shelljs": "^0.8.5",
